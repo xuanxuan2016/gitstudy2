@@ -5,3 +5,5 @@ git branch master
 git branch feture1 commit
 
 禁用Fast forward
+
+不禁用Fast forward
