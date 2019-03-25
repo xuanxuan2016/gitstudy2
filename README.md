@@ -3,3 +3,5 @@
 git branch dev
 git branch master
 git branch feture1 commit
+
+禁用Fast forward
