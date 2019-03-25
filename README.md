@@ -9,3 +9,4 @@ git branch feture1 commit
 不禁用Fast forward
 
 dev1
+dev
